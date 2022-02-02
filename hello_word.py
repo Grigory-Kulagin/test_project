@@ -1,2 +1,2 @@
-print('Hello main word')
-print('Hello develop word')
+print('Hello main world')
+print('Hello develop world')
